@@ -6,4 +6,6 @@
 #### En este espacio encontrarán trabajos, ejercicios y repositorios realizados durante el semestre 2025A.
 
 ## I Corte
+Presentación servers
+[Descargar Servidores.pptx](https://github.com/TU_USUARIO/ARQUITECTURA_DE_SOFTWARE/raw/main/Servidores.pptx)
 
