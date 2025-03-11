@@ -11,4 +11,4 @@
 
 Puedes descargar la presentación de PowerPoint desde el siguiente enlace:
 
-[Descargar Servidores.pptx](https://github.com/JerssonF/Arquitectura_de_software/raw/main/Servidores.pptx)
+[Descargar Servidores.pptx](Arquitectura de Software/Servidores/Servidores.pptx)
