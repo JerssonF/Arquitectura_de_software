@@ -13,3 +13,10 @@ Puedes descargar la presentación de PowerPoint desde el siguiente enlace:
 
 [Descargar Servidores.pptx](https://github.com/JerssonF/Arquitectura_de_software/raw/main/Servers.pptx)
 
+
+## II Corte
+
+
+Demostremos manejo de despliegue bajo repositorios
+
+[Ver repositorio](https://github.com/JerssonF/Repositorio-prueba.git)
